@@ -9,3 +9,4 @@ This repository contains 2D mechanical drawings of common connectors. The drawin
 | miniUSB-B | Mini USB 2.0 Type B SMT Horizontal 5 Contacts | [65100516121](https://www.we-online.com/en/components/products/COM_SMT_MINI_TYPE_B_HORIZONTAL) |
 | SCART | SCART CONNECTOR, LEFT SIDED | [1483465-1](https://www.te.com/usa-en/product-1483465-1.html) |
 | USB-C | USB 3.1 Type C Receptacle Horizontal High-Rise SMT | [632722200212](https://www.we-online.com/en/components/products/USB_3_1_TYPE_C_RECEPTACLE_HORIZONTAL_HIGH_SMT) |
+| VGA | Male High Density Angled PCB Connector w. Hex Screw | [618015331023](https://www.we-online.com/en/components/products/DSUB_MALE_HIGH_DENSITY_ANGLED_PCB_CONNECTOR_W_HEX_SCREW_6180XX331023) |
